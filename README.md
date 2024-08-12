@@ -1,2 +1,2 @@
 # program_for_change_lease
-program_for_change_lease_on_mikrotik
+This programm allow change lease on mikrotik, if you don't want to take access for technical support.
